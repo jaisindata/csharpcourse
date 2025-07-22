@@ -1,0 +1,12 @@
+Project:
+Is where your code lives. It encapsulates one type of code and of application.
+A secondary project is like a library that that supports the main project.
+Projects reside in a solution.
+Pascal casing is the industry standard for naming projects.
+
+Solution:
+Is a bucket that encapsulates one or more projects.
+Pascal casing is the industry standard for naming solutions.
+
+extensions:
+font sizer
