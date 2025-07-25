@@ -1,0 +1,11 @@
+
+Datatypes:
+- string
+- int (+/- 2billion signed Int32 unsigned 4billion)
+- double
+- decimal
+- bool
+- null
+-datetime
+
+? - to give the capacity for a variable to store null value (make it nullable)

@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{3C717131-2FDF-4C34-AE30-7F9116E919D3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="GreetingApp/Program.cs">
+﻿<Properties StartupConfiguration="{1345BA23-D0E0-49BB-AB03-F6ACBB59756A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BoolVariable/Program.cs">
     <Files>
-      <File FileName="GreetingApp/Program.cs" Line="19" Column="28" />
+      <File FileName="BoolVariable/Program.cs" Line="6" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MySecondApplication" expanded="True">
-            <Node name="GreetingApp">
+          <Node name="BoolVariableApp" expanded="True">
+            <Node name="BoolVariable">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,10 +16,10 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.GreetingApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BoolVariable PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

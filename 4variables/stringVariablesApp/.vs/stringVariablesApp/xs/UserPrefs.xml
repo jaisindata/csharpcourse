@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{3C717131-2FDF-4C34-AE30-7F9116E919D3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="GreetingApp/Program.cs">
+﻿<Properties StartupConfiguration="{5DEA6707-89E8-4F55-85CF-451094D8CE0B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="stringVariables/Program.cs">
     <Files>
-      <File FileName="GreetingApp/Program.cs" Line="19" Column="28" />
+      <File FileName="stringVariables/Program.cs" Line="14" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MySecondApplication" expanded="True">
-            <Node name="GreetingApp">
+          <Node name="stringVariablesApp" expanded="True">
+            <Node name="stringVariables">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,10 +16,10 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.GreetingApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.stringVariables PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

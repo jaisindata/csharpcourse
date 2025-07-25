@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{3C717131-2FDF-4C34-AE30-7F9116E919D3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="GreetingApp/Program.cs">
+﻿<Properties StartupConfiguration="{0CB9DA08-1D22-47CE-9B90-3A8412E48886}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DecimalVariable/Program.cs">
     <Files>
-      <File FileName="GreetingApp/Program.cs" Line="19" Column="28" />
+      <File FileName="DecimalVariable/Program.cs" Line="8" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MySecondApplication" expanded="True">
-            <Node name="GreetingApp">
+          <Node name="DecimalVariableApp" expanded="True">
+            <Node name="DecimalVariable">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,10 +16,10 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.GreetingApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DecimalVariable PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
