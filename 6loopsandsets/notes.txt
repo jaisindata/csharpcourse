@@ -1,0 +1,9 @@
+while loop : runs 0 or more times based on condition
+do while loop: runs atleast once and or more times based on condition.
+
+Arrays
+Lists
+Dictionaries
+
+For loop
+ForEach Loop
