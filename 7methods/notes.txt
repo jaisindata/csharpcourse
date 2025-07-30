@@ -1,0 +1,8 @@
+Best practices to writing methods
+DRY - Don't Repeat Yourself (logic)
+
+SOLID Principle -
+S - SRP - Single Responsibility Principle
+
+Tuple:
+Allows us to return 2 or more values from a method.
